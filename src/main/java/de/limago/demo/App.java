@@ -21,7 +21,7 @@ public class App
           } 
         }); 
     	    	
-    	System.out.println("Ende");
+    	System.out.println("Programmende");
     	
     }
 }
